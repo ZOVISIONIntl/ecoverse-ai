@@ -1,5 +1,4 @@
 # ecoverse-ai
-Decentralized Autonomous AI
 │── README.md                  # Main documentation
 │── setup.sh                   # Auto-installation script
 │── requirements.txt            # Python dependencies
